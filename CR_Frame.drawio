@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T17:17:51.741Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.2" etag="mXhy_eoNezfhLCvqs3ND" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T17:57:05.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rTWGFM66I7nKssI8lCR4" version="21.2.2" type="github">
   <diagram name="Page-1" id="Rk7w6HHk9pRMZBYdX3ba">
-    <mxGraphModel>
+    <mxGraphModel dx="1593" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="31" width="618" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;dashed=1;dashPattern=1 4;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-183" y="52" width="520" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sustainable Management of Ranches&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-244" y="-38" width="758" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="Xyv1j1IWJ2Sn1UK9mUce-2" target="Xyv1j1IWJ2Sn1UK9mUce-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#595959;startArrow=classic;startFill=1;" edge="1" parent="1" source="Xyv1j1IWJ2Sn1UK9mUce-2" target="Xyv1j1IWJ2Sn1UK9mUce-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-2" value="Environmental" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="46" y="68" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="Xyv1j1IWJ2Sn1UK9mUce-5" target="Xyv1j1IWJ2Sn1UK9mUce-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-5" value="Social" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="204" y="68" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Learning&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Support systems&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="204" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#595959;" edge="1" parent="1" source="Xyv1j1IWJ2Sn1UK9mUce-9" target="Xyv1j1IWJ2Sn1UK9mUce-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-20" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;drought&amp;nbsp;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#dbe9fc;" vertex="1" connectable="0" parent="Xyv1j1IWJ2Sn1UK9mUce-10">
+          <mxGeometry x="0.0227" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-9" value="Climate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-162" y="68" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Biodiversity&lt;/b&gt;:&lt;br&gt;Landscape diversity&lt;br&gt;Livestock diversity&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="46" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xyv1j1IWJ2Sn1UK9mUce-34" target="Xyv1j1IWJ2Sn1UK9mUce-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-38" value="Monitoring, learn, &lt;br&gt;adapt / transform" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#595959;" vertex="1" connectable="0" parent="Xyv1j1IWJ2Sn1UK9mUce-37">
+          <mxGeometry x="0.0947" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-29" value="&lt;b&gt;Decision making as a process&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#595959;" vertex="1" parent="1">
+          <mxGeometry x="-241.5" y="241" width="289" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-30" value="&lt;font&gt;current&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="196" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xyv1j1IWJ2Sn1UK9mUce-33" value="Future" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#F7E878;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="421" y="263" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
