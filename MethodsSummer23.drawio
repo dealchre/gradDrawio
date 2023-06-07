@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T23:47:45.805Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.2.3" etag="UrbscUGspO689dHEaZNr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T01:37:28.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lzrreQnloJHLvIMqAlOz" version="21.2.3" type="github">
   <diagram name="Page-1" id="xXZVvcbn3m8yzzzZbI0E">
-    <mxGraphModel>
+    <mxGraphModel dx="596" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-1" target="N8_ovVChTHwq_1SiLQtt-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="160" />
+              <mxPoint x="140" y="160" />
+              <mxPoint x="140" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-1" target="N8_ovVChTHwq_1SiLQtt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="160" />
+              <mxPoint x="130" y="160" />
+              <mxPoint x="130" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-1" target="N8_ovVChTHwq_1SiLQtt-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="160" />
+              <mxPoint x="120" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-1" target="N8_ovVChTHwq_1SiLQtt-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="160" />
+              <mxPoint x="110" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-1" value="Adaptive Capacity scores through&lt;br&gt;linear combinations of:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-2" target="N8_ovVChTHwq_1SiLQtt-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="200" />
+              <mxPoint x="360" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-2" value="Capitals (3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-3" target="N8_ovVChTHwq_1SiLQtt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="230" />
+              <mxPoint x="360" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-3" value="Variables (31)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="220" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-4" target="N8_ovVChTHwq_1SiLQtt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="260" />
+              <mxPoint x="360" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-4" value="Components (3 ~ 52%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="250" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N8_ovVChTHwq_1SiLQtt-5" target="N8_ovVChTHwq_1SiLQtt-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="290" />
+              <mxPoint x="360" y="244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-5" value="Factors (3 ~ 47%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="280" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-10" value="Regression Analysis&amp;nbsp;&lt;br&gt;(Random Forest)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="224" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N8_ovVChTHwq_1SiLQtt-19" value="&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:12.0pt&quot;&gt;Upper tail income (+)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:12.0pt&quot;&gt;Population on SNAP (-)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:12.0pt&quot;&gt;Families below poverty line (-)&lt;/p&gt;&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:12.0pt&quot;&gt;Agriculture production expense(+)&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="290" width="560" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
