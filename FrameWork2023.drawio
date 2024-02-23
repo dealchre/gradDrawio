@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T04:20:10.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XSBwVizV6jlgOIMT0_d9" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T04:36:49.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tmAKytOe9YTpt-5kfK-b" version="23.1.1" type="github">
   <diagram name="Page-1" id="_zbrBUCUruDryijLgmsr">
-    <mxGraphModel dx="909" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1794" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,41 +211,62 @@
         <mxCell id="6k4b8ibVsfDUFnUtJjEN-10" value="Keep variables that explain at least 90% of the variance" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="1490" y="-150" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-2" target="gRwXSgp6U3wknz5eqgnO-3">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="gRwXSgp6U3wknz5eqgnO-2" target="gRwXSgp6U3wknz5eqgnO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-2" value="Whole Sample" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-2" value="Whole Sample" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="960" y="277" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(+) Household Median Income&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(-) Households on SNAP&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(-) High School or Less&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(+) Household Median Income&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(-) Households on SNAP&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(-) High School or Less&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1126.25" y="287" width="213.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-5" target="gRwXSgp6U3wknz5eqgnO-6">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" parent="1" source="gRwXSgp6U3wknz5eqgnO-5" target="gRwXSgp6U3wknz5eqgnO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-5" value="Metro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-5" value="Metro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="960" y="392" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;(-) Percent Hispanic&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-) Households on SNAP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Household Median Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Graduate or professional degree&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;(-) Percent Hispanic&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-) Households on SNAP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Household Median Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Graduate or professional degree&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="1126.25" y="392" width="213.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-9" target="gRwXSgp6U3wknz5eqgnO-10">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a0522d;strokeColor=#6D1F00;" parent="1" source="gRwXSgp6U3wknz5eqgnO-9" target="gRwXSgp6U3wknz5eqgnO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-9" value="Non-Metro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-9" value="Non-Metro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="1380" y="277" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ratio of Livestock to Crops&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Farm Net Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pop 65 and older&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ratio of Livestock to Crops&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Farm Net Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pop 65 and older&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="1546.25" y="287" width="213.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-12" target="gRwXSgp6U3wknz5eqgnO-13">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" parent="1" source="gRwXSgp6U3wknz5eqgnO-12" target="gRwXSgp6U3wknz5eqgnO-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-12" value="Farming" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-12" value="Farming" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="1380" y="392" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRwXSgp6U3wknz5eqgnO-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ratio of Livestock to Crops&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Farm Net Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pop 65 and older&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ag contribution to GDP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Percent Irrigation&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Soybean Yield&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Pop on Social Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ratio of Livestock to Crops&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Farm Net Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pop 65 and older&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ag contribution to GDP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Percent Irrigation&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Soybean Yield&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Pop on Social Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="1546.25" y="357" width="213.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FJpGPIFgux7an2wd34B2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#333333;" edge="1" parent="1" source="FJpGPIFgux7an2wd34B2-2" target="FJpGPIFgux7an2wd34B2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996.25" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="640" />
+              <mxPoint x="910" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJpGPIFgux7an2wd34B2-2" value="Inputs:&lt;br&gt;31 AC variables" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#333333;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="950" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJpGPIFgux7an2wd34B2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#333333;" edge="1" parent="1" source="FJpGPIFgux7an2wd34B2-3" target="FJpGPIFgux7an2wd34B2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJpGPIFgux7an2wd34B2-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;Four methods of constructing AC to determine an AC score.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Stepwise regression to determine 5 most important&amp;nbsp;variables per method.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Use a combinations of those variables to create a reduced AC score.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#333333;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="976.25" y="700" width="443.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJpGPIFgux7an2wd34B2-4" value="Two outcomes:&lt;br&gt;1. AC scores for the whole state, metro, non-metro, and farming coutnies&lt;br&gt;2. Determinants that most influence AC in each context or sample extent" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1136.25" y="805" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
