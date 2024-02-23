@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T03:10:01.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QDAXtaes6zqkdOxsbjcg" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T04:20:10.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XSBwVizV6jlgOIMT0_d9" version="23.1.1" type="github">
   <diagram name="Page-1" id="_zbrBUCUruDryijLgmsr">
-    <mxGraphModel dx="1193" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,36 +66,6 @@
         </mxCell>
         <mxCell id="dptRVDpqFGGdvCAzj5YB-39" value="ACns" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="459" y="805" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-127" value="&lt;b&gt;Kmeans Clustering&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="949" y="130" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;fontColor=#333333;strokeColor=#4D4D4D;" parent="1" source="Muj6duBMKOrzMUAp63_f-129" target="Muj6duBMKOrzMUAp63_f-133" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-129" value="&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Farmer net income&lt;/font&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="940" y="170" width="189" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;fontColor=#333333;strokeColor=#4D4D4D;" parent="1" source="Muj6duBMKOrzMUAp63_f-130" target="Muj6duBMKOrzMUAp63_f-136" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-130" value="Median income&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="940" y="210" width="189" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;fontColor=#333333;strokeColor=#4D4D4D;" parent="1" source="Muj6duBMKOrzMUAp63_f-131" target="Muj6duBMKOrzMUAp63_f-137" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-131" value="&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;65 years and older&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Acres planted from all crops&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Agriculture contribution to GDP&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Corn Grain yield&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Crops cash receipts&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Dependents (18 years and under)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Families below poverty line&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Fertilizer used&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Government payments&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Graduate degree&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Health providers per capita&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Hispanic population&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Labor expense&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Less than high school&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Male population&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Percent irrigation&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Population density&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Population with disability&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Population with health insurance&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Population with SNAP&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Population with Social Security&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Population with upper-tail income&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Production expense&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Proprietors income/net income&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Ratio between livestock and crops&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Soybean yield&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Unemployment&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;White (race)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Winter wheat yield&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif; font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="940" y="250" width="189" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-133" value="&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Cluster 1&lt;/font&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1183" y="170" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-136" value="&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Cluster 2&lt;/font&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1183" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Muj6duBMKOrzMUAp63_f-137" value="&lt;p style=&quot;margin: 0in; font-family: Calibri, sans-serif;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Cluster 3&lt;/font&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="1183" y="435" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7lah4xBtO7-Hf7GqW6jk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#512888;dashed=1;exitX=1.001;exitY=0.745;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7lah4xBtO7-Hf7GqW6jk-19" target="7lah4xBtO7-Hf7GqW6jk-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,7 +157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0e8088;fillColor=#b0e3e6;" edge="1" parent="1" source="7lah4xBtO7-Hf7GqW6jk-51" target="6k4b8ibVsfDUFnUtJjEN-1">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0e8088;fillColor=#b0e3e6;" parent="1" source="7lah4xBtO7-Hf7GqW6jk-51" target="6k4b8ibVsfDUFnUtJjEN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="-200" as="targetPoint" />
             <mxPoint x="1265" y="-225" as="sourcePoint" />
@@ -220,26 +190,62 @@
         <mxCell id="7lah4xBtO7-Hf7GqW6jk-42" value="&lt;font color=&quot;#000000&quot;&gt;Factor Analysis&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;shadow=0;fontColor=#666666;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1510" y="-350" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="6k4b8ibVsfDUFnUtJjEN-1" target="6k4b8ibVsfDUFnUtJjEN-3">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" source="6k4b8ibVsfDUFnUtJjEN-1" target="6k4b8ibVsfDUFnUtJjEN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-1" value="Calculate reduced adaptive capacity score" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;shadow=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-1" value="Calculate reduced adaptive capacity score" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;shadow=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="890" y="-200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="6k4b8ibVsfDUFnUtJjEN-3" target="6k4b8ibVsfDUFnUtJjEN-8">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" source="6k4b8ibVsfDUFnUtJjEN-3" target="6k4b8ibVsfDUFnUtJjEN-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-3" value="Linear combination of variables to create AC score" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-3" value="Linear combination of variables to create AC score" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="1091" y="-181.25" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="6k4b8ibVsfDUFnUtJjEN-8" target="6k4b8ibVsfDUFnUtJjEN-10">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" source="6k4b8ibVsfDUFnUtJjEN-8" target="6k4b8ibVsfDUFnUtJjEN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-8" value="Iteratively regress AC score against independent variables" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-8" value="Iteratively regress AC score against independent variables" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-160" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6k4b8ibVsfDUFnUtJjEN-10" value="Keep variables that explain at least 90% of the variance" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="6k4b8ibVsfDUFnUtJjEN-10" value="Keep variables that explain at least 90% of the variance" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;glass=0;shadow=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="1490" y="-150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-2" target="gRwXSgp6U3wknz5eqgnO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-2" value="Whole Sample" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="960" y="277" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(+) Household Median Income&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(-) Households on SNAP&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(-) High School or Less&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1126.25" y="287" width="213.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-5" target="gRwXSgp6U3wknz5eqgnO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-5" value="Metro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="960" y="392" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;(-) Percent Hispanic&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-) Households on SNAP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Household Median Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Graduate or professional degree&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1126.25" y="392" width="213.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-9" target="gRwXSgp6U3wknz5eqgnO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-9" value="Non-Metro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="277" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ratio of Livestock to Crops&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Farm Net Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pop 65 and older&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="1546.25" y="287" width="213.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="gRwXSgp6U3wknz5eqgnO-12" target="gRwXSgp6U3wknz5eqgnO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-12" value="Farming" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="392" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gRwXSgp6U3wknz5eqgnO-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ratio of Livestock to Crops&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Farm Net Income&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(-)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Pop 65 and older&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Ag contribution to GDP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Percent Irrigation&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Soybean Yield&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(+) Pop on Social Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1546.25" y="357" width="213.75" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
