@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2024-07-30T18:40:41.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.6.5" etag="dTT57kSQnP7AtxmT0Nm2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-30T20:20:17.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="U2GIphLGIBFkl1CwN4kv" version="24.6.5" type="github">
   <diagram name="Page-1" id="GAYn5EZrnNNbAh_IwkB9">
-    <mxGraphModel>
+    <mxGraphModel dx="1060" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wC1ke1RK2jKx436iLJwc-3" value="&amp;nbsp; Yes&amp;nbsp;&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wC1ke1RK2jKx436iLJwc-2">
+          <mxGeometry x="-0.6271" relative="1" as="geometry">
+            <mxPoint x="120" y="112.5" as="sourcePoint" />
+            <mxPoint x="310" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="120" />
+              <mxPoint x="200" y="120" />
+              <mxPoint x="200" y="30" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wC1ke1RK2jKx436iLJwc-1" target="wC1ke1RK2jKx436iLJwc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-1" value="Is the county covered 100% by a HPSA region?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="100" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-2" value="assign region value to the county" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wC1ke1RK2jKx436iLJwc-4" target="wC1ke1RK2jKx436iLJwc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-4" value="covered by several hpsa area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wC1ke1RK2jKx436iLJwc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="229.7619047619047" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-6" value="cover only by 1 hpsa area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wC1ke1RK2jKx436iLJwc-1" target="wC1ke1RK2jKx436iLJwc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="175" as="sourcePoint" />
+            <mxPoint x="230" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-9" value="((calculate area coverage of hpsa) / (county area))*HPSA score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-10" value="(((calculate area coverage of hpsa&lt;sub&gt;1&lt;/sub&gt;) / (county area))*HPSA score&lt;sub&gt;1&lt;/sub&gt;) +(((calculate area coverage of hpsa&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;) / (county area))*HPSA score&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;)....." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wC1ke1RK2jKx436iLJwc-12" target="wC1ke1RK2jKx436iLJwc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-12" value="No HPSA coverage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-14" value="assign value of zero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wC1ke1RK2jKx436iLJwc-17" value="&amp;nbsp; No&amp;nbsp;&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wC1ke1RK2jKx436iLJwc-1" target="wC1ke1RK2jKx436iLJwc-12">
+          <mxGeometry x="-0.6078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
