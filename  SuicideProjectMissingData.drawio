@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="U41e0W1YyA7ZPDxGugCi">
-    <mxGraphModel>
+    <mxGraphModel dx="2213" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-1" value="U.S. Counties&lt;div&gt;(N = 3145)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-2" value="Rural Counties&lt;div&gt;(N = 1977)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-4" value="Missing Suicide Rate Data&lt;div&gt;(n = 591)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-5" value="Missing Mental Health&amp;nbsp;&lt;div&gt;Provider Ratio Data&lt;div&gt;(n = 33)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-8" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1353)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-10" value="Rural Counties&lt;div&gt;(N = 1977)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-11" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1353)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-12" value="Rural Counties&lt;div&gt;(N = 1977)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-13" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1353)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-14" value="Missing Suicide Rate Data&lt;div&gt;(n = 591)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-15" value="Missing Mental Health&amp;nbsp;&lt;div&gt;Provider Ratio Data&lt;div&gt;(n = 33)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
