@@ -1,41 +1,67 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="U41e0W1YyA7ZPDxGugCi">
-    <mxGraphModel dx="2122" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-1" value="U.S. Counties&lt;div&gt;(N = 3144)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="IhXdo137L5uFExmbqj5h-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-1" target="QXjHKHTt_Mf7uVLjIhGh-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-2" value="Rural Counties&lt;div&gt;(N = 1977)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IhXdo137L5uFExmbqj5h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-1" target="QXjHKHTt_Mf7uVLjIhGh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-1" value="U.S. Counties&lt;div&gt;(N = 3144)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="112" y="210" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IhXdo137L5uFExmbqj5h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-2" target="QXjHKHTt_Mf7uVLjIhGh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-2" value="Rural Counties&lt;div&gt;(N = 1977)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-30" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-4" value="Missing Suicide Rate Data&lt;div&gt;(n = 591)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="420" width="170" height="60" as="geometry" />
+        <mxCell id="IhXdo137L5uFExmbqj5h-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="449.68421052631584" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-5" value="Missing Mental Health&amp;nbsp;&lt;div&gt;Provider Ratio Data&lt;div&gt;(n = 33)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="520" width="170" height="60" as="geometry" />
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-4" value="Missing Suicide Rate Data&lt;div&gt;(n = 591)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="420" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-8" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1353)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IhXdo137L5uFExmbqj5h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="549.6842105263158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-5" value="Missing Mental Health&amp;nbsp;&lt;div&gt;Provider Ratio Data&lt;div&gt;(n = 33)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-8" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1353)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-30" y="620" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-10" value="Urban Counties&lt;div&gt;(N = 1167)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IhXdo137L5uFExmbqj5h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-10" target="QXjHKHTt_Mf7uVLjIhGh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-10" value="Urban Counties&lt;div&gt;(N = 1167)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="260" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-11" value="Urban Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1088)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-11" value="Urban Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1088)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="260" y="620" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-12" value="Rural Counties&lt;div&gt;(N = 1977)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="320" width="170" height="60" as="geometry" />
+        <mxCell id="IhXdo137L5uFExmbqj5h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="449.68421052631584" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-13" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1353)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="620" width="170" height="60" as="geometry" />
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-14" value="Missing Suicide Rate Data&lt;div&gt;(n = 70)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="400" y="420" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-14" value="Missing Suicide Rate Data&lt;div&gt;(n = 70)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="420" width="170" height="60" as="geometry" />
+        <mxCell id="IhXdo137L5uFExmbqj5h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="549.6842105263158" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-15" value="Missing Mental Health&amp;nbsp;&lt;div&gt;Provider Ratio Data&lt;div&gt;(n = 9)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="520" width="170" height="60" as="geometry" />
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-15" value="Missing Mental Health&amp;nbsp;&lt;div&gt;Provider Ratio Data&lt;div&gt;(n = 9)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="400" y="520" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
