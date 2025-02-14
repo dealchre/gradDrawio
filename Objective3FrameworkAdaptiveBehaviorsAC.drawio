@@ -73,17 +73,16 @@
         <mxCell id="xCPVz_zTYaMDrQWWXTra-5" value="Adaptive Behaviour" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xCPVz_zTYaMDrQWWXTra-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="xCPVz_zTYaMDrQWWXTra-6" target="xCPVz_zTYaMDrQWWXTra-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xCPVz_zTYaMDrQWWXTra-6" value="Locus of Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;fillColor=default;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="102" height="30" as="geometry" />
+        <mxCell id="xCPVz_zTYaMDrQWWXTra-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" target="xCPVz_zTYaMDrQWWXTra-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="191.9999999999999" y="305" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xCPVz_zTYaMDrQWWXTra-15" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Theory of Planned Behavior&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="535" y="318" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xCPVz_zTYaMDrQWWXTra-19" value="Subjective Adaptive Capacity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="90" y="155" width="102" height="30" as="geometry" />
+        <mxCell id="xCPVz_zTYaMDrQWWXTra-19" value="&lt;b&gt;Subjective Adaptive Capacity&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Locus of Control&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Resilience&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Perception&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="60" y="155" width="132" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
