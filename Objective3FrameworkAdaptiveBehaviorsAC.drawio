@@ -81,8 +81,17 @@
         <mxCell id="xCPVz_zTYaMDrQWWXTra-15" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Theory of Planned Behavior&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="535" y="318" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xCPVz_zTYaMDrQWWXTra-19" value="&lt;b&gt;Subjective Adaptive Capacity&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Locus of Control&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Resilience&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Perception&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="60" y="155" width="132" height="185" as="geometry" />
+        <mxCell id="xCPVz_zTYaMDrQWWXTra-21" value="&lt;i&gt;Locus of Control&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#7D8A89;strokeWidth=0.5;fillColor=#7D8A89;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xCPVz_zTYaMDrQWWXTra-22" value="&lt;i&gt;Resilience&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#7D8A89;strokeWidth=0.5;fillColor=#7D8A89;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xCPVz_zTYaMDrQWWXTra-23" value="&lt;i&gt;Awareness&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#7D8A89;strokeWidth=0.5;fillColor=#7D8A89;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xCPVz_zTYaMDrQWWXTra-24" value="&lt;i&gt;Perception&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#7D8A89;strokeWidth=0.5;fillColor=#7D8A89;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="102" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
