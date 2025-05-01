@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="U5n7xN84hakL3ZgfuC4N">
-    <mxGraphModel dx="817" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,15 @@
         </mxCell>
         <mxCell id="0VALnksqHh3Q-iaRCEPl-36" value="Step 2: Calculating Future Variable Values per Scenario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="31" y="410" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0VALnksqHh3Q-iaRCEPl-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#ABABAB;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="1105.2919708029194" as="sourcePoint" />
+            <mxPoint x="1110" y="1124.7080291970801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VALnksqHh3Q-iaRCEPl-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-179" y="1010" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
