@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="U41e0W1YyA7ZPDxGugCi">
-    <mxGraphModel dx="1501" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,25 +21,25 @@
             <mxPoint x="-3" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-2" value="Rural Counties&lt;div&gt;(N = 1958)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-2" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Rural Counties&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;(N = 1958)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-30" y="320" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBmoiaXDiHtMovvOeoIs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-4" target="QXjHKHTt_Mf7uVLjIhGh-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-4" value="&lt;ul style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;li&gt;Missing Suicide Rate Data&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n= 590)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;% Mortgage Burden (n= 2)&lt;/li&gt;&lt;li&gt;% Rent Burden (n= 2)&lt;/li&gt;&lt;li&gt;Ratio of population to mental health providers (n= 172)&lt;/li&gt;&lt;li&gt;Poor mental health days (n= 3)&lt;/li&gt;&lt;li&gt;Firearms fatalities (n= 770)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-4" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Missing Suicide Rate Data&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;(n= 590)&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;% Mortgage Burden (n= 2)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;% Rent Burden (n= 2)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Ratio of population to mental health providers (n= 172)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Poor mental health days (n= 3)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Firearms fatalities (n= 770)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-80" y="440" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-8" value="Rural Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1067)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-8" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Rural Counties&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;included in the analysis&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;(N = 1067)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-30" y="590" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IhXdo137L5uFExmbqj5h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;fillColor=#fff2cc;" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-14" target="QXjHKHTt_Mf7uVLjIhGh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-10" value="Urban Counties&lt;div&gt;(N = 1186)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6B656;strokeColor=#AB9145;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-10" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Urban Counties&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;(N = 1186)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6B656;strokeColor=#AB9145;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-11" value="Urban Counties&amp;nbsp;&lt;div&gt;included in the analysis&lt;div&gt;(N = 1111)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6B656;strokeColor=#AB9145;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-11" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Urban Counties&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;included in the analysis&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;(N = 1111)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6B656;strokeColor=#AB9145;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="280" y="590" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBmoiaXDiHtMovvOeoIs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;fillColor=#fff2cc;endArrow=none;endFill=0;" edge="1" parent="1" source="QXjHKHTt_Mf7uVLjIhGh-10" target="QXjHKHTt_Mf7uVLjIhGh-14">
@@ -53,7 +53,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-14" value="&lt;ul&gt;&lt;li&gt;Missing Suicide Rate Data&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n = 72)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;% Mortgage Burden (n=1)&lt;/li&gt;&lt;li&gt;Ratio of population to mental health providers (n= 29)&lt;/li&gt;&lt;li&gt;Firearms fatalities (n= 102)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6B656;strokeColor=#AB9145;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="QXjHKHTt_Mf7uVLjIhGh-14" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Missing Suicide Rate Data&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;(n = 72)&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;% Mortgage Burden (n=1)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Ratio of population to mental health providers (n= 29)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Firearms fatalities (n= 102)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6B656;strokeColor=#AB9145;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="230" y="440" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
